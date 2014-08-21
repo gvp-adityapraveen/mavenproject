@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-	String salutation = System.getProperty("salute");
+//	String salutation = System.getProperty("salute");
     /**
      * Create the test case
      *
