@@ -34,6 +34,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertEquals( "aditya prave","aditya prave");
+        assertEquals( "aditya prav","aditya prav");
     }
 }
